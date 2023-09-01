@@ -1,0 +1,12 @@
+[build-system]
+requires = ["setuptools", "setuptools-scm"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "picture_comparison"
+version = "0.0.1"
+dependencies = [
+    "numpy",
+    'cv2',
+    'imageio',
+]
