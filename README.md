@@ -1,1 +1,1 @@
-# picture_compatisson
+# picture_comparison
